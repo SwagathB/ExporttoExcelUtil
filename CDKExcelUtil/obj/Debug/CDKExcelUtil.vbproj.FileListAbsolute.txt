@@ -1,0 +1,14 @@
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\CDKExcelUtil.dll
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\CDKExcelUtil.pdb
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\CDKExcelUtil.xml
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\ClosedXML.dll
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\DocumentFormat.OpenXml.dll
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\DocumentFormat.OpenXml.Extensions.dll
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\System.Web.Http.dll
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\ClosedXML.xml
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\bin\Debug\System.Web.Http.xml
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\obj\Debug\CDKExcelUtil.Resources.resources
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\obj\Debug\CDKExcelUtil.vbproj.GenerateResource.Cache
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\obj\Debug\CDKExcelUtil.dll
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\obj\Debug\CDKExcelUtil.xml
+d:\users\bairis\documents\visual studio 2015\Projects\CDKExcelUtil\CDKExcelUtil\obj\Debug\CDKExcelUtil.pdb
